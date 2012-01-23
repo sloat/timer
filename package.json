@@ -1,0 +1,22 @@
+{
+    "name": "timer",
+    "version": "1.0",
+    "title": "Timer API",
+    "author": {
+        "name": "Matt Schmidt",
+        "email": "matt@mattptr.net",
+        "url": "http://mattptr.net"
+    },
+    "licenses": [
+        {
+            "type": "BSD",
+            "url": "http://mattptr.net/license/license.txt"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.2"
+    },
+    "description": "A simple utility to make working with timeouts and intervals slightly easier",
+    "keywords": ["timer", "utility", "interval", "timeout"],
+    "files": ["jquery.timer.js"]
+}
