@@ -9,8 +9,7 @@
     },
     "licenses": [
         {
-            "type": "BSD",
-            "url": "http://mattptr.net/license/license.txt"
+            "type": "MIT"
         }
     ],
     "dependencies": {
